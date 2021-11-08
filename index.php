@@ -1,3 +1,3 @@
 <?php
-    echo sprintf("Hello, Welcome to CloudBase!");
+    echo sprintf("欢迎使用微信云托管！");
 ?>
